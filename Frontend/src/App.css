@@ -1,0 +1,25 @@
+
+.input{
+  padding: 15px 10px;
+  border-radius: 7px;
+  background-color:#f3f4f5f0;
+  /* min-width:370px; */
+}
+.btn{
+  /* background-color:#2f2f62; */
+  min-width:170px;
+  border-radius: 10px;
+  color: white;
+  font-size: 17px;
+  font-weight: 500;
+}
+body{
+  background-color:#ecedf0f0 ;
+}
+.border-btn{
+  background-color:transparent;
+  padding: 7px 0px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  color: black;
+}
